@@ -9,4 +9,4 @@ Este es un proyecto de RegEx third_week. Puedes encontrar el código principal a
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/usuario/mi-repo.git
+   git clone https://github.com/usuario/mi-repo.git](https://github.com/juancamacho-otf/RegEx.git
