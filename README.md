@@ -2,7 +2,7 @@
 
 Este es un proyecto de RegEx third_week. Puedes encontrar el código principal aquí:
 
-👉 [Ver código principal]([./src/main.py](https://github.com/juancamacho-otf/RegEx/blob/master/third_week.ipynb))
+👉 [Ver código principal](https://github.com/juancamacho-otf/RegEx/blob/master/third_week.ipynb)
 
 ## Instalación
 
